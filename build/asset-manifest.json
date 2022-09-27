@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.def0b122.css",
+    "main.js": "/static/js/main.8e1ba0de.js",
+    "static/js/787.83904489.chunk.js": "/static/js/787.83904489.chunk.js",
+    "static/media/bcg.png": "/static/media/bcg.08cc6f16e49ecf7a875d.png",
+    "static/media/Inter.ttf": "/static/media/Inter.aadb65ac45347ff46699.ttf",
+    "static/media/glow.png": "/static/media/glow.53aec29997ea2d2c5b4c.png",
+    "static/media/quiz_3.png": "/static/media/quiz_3.0147999b973df7a61336.png",
+    "static/media/quiz_5.png": "/static/media/quiz_5.d87a3f118ae8dd0c0da0.png",
+    "static/media/quiz_1.png": "/static/media/quiz_1.b7e76397e6ed2ac355be.png",
+    "static/media/quiz_4.png": "/static/media/quiz_4.4efe5bae08d0666e9843.png",
+    "static/media/quiz_2.png": "/static/media/quiz_2.3f1edb8319577bd740b0.png",
+    "index.html": "/index.html",
+    "main.def0b122.css.map": "/static/css/main.def0b122.css.map",
+    "main.8e1ba0de.js.map": "/static/js/main.8e1ba0de.js.map",
+    "787.83904489.chunk.js.map": "/static/js/787.83904489.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def0b122.css",
+    "static/js/main.8e1ba0de.js"
+  ]
+}
